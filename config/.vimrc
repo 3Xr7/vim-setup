@@ -26,6 +26,7 @@ colorscheme hybrid_material
 
 " Automatically open NERDTree on start and focus file window
 autocmd VimEnter * NERDTree | wincmd p
+let NERDTreeShowHidden=1
 
 " Set F8 to toggle Tagbar
 nmap <F8> :TagbarToggle<CR>
