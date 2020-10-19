@@ -12,6 +12,7 @@ plugins=(
   ["gitgutter"]="airblade/vim-gitgutter.git"
   ["fugitive"]="tpope/vim-fugitive.git"
   ["auto-pairs"]="jiangmiao/auto-pairs.git"
+  ["ale"]="dense-analysis/ale.git"
 )
 
 if [ ! -d "$tmp_dir" ]; then

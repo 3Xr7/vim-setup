@@ -18,6 +18,7 @@ Automated setup of vim how I like it.
  - [GitGutter](https://github.com/airblade/vim-gitgutter)
  - [Fugitive](https://github.com/tpope/vim-fugitive)
  - [Auto Pairs](https://github.com/jiangmiao/auto-pairs)
+ - [ALE](https://github.com/dense-analysis/ale)
 
 ### Themes
  - [Hybrid Material](https://github.com/kristijanhusak/vim-hybrid-material)
